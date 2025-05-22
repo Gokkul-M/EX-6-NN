@@ -1,4 +1,4 @@
-<H3>NAME: Gokkul M<</H3>
+<H3>NAME: Gokkul M</H3>
 <H3>REGISTER NO : 212223240039 
 <H3>EX. NO.6</H3>
 <H3>DATE:23-05-25</H3>
